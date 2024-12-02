@@ -1,2 +1,9 @@
+.holder{
+display:flex;
+justify-content: center;
+flex-wrap:wrap;
+}
 
-/* Your CSS Code here. */
+.item{
+border:1px solid black; 
+}
